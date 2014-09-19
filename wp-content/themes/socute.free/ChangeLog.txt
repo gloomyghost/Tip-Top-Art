@@ -1,0 +1,56 @@
+------------------ VER 1.2.1 - Released: 03-25-2014 ---------------
+Fixed: Empty line before php tag on top of the file.
+Fixed: Product slider visual bug
+Fixed: Shipping - Billing fields style
+
+Updated:
+css/responsive.css
+theme/assets/css/widgets.css
+theme/woocommerce.php
+woocommerce/global/wrapper-end.php
+woocommerce/global/wrapper-start.php
+woocommerce/single-product/add-to-cart/grouped.php
+woocommerce/single-product/add-to-cart/variable.php
+woocommerce/single-product/product-attributes.php
+woocommerce/single-product/product-image.php
+woocommerce/single-product/product-thumbnails.php
+woocommerce/style.css
+
+------------------ VER 1.2.0 - Released: 02-18-2014 ---------------
+Added: Compatibility to Woocommerce 2.1.2
+Fixed: Wrong Marketplace
+
+Updated:
+style.css
+theme/woocommerce.php
+woocommerce/*
+woocommerce_2.0.x/*
+languages/default.po
+languages/yit.pot
+ChangeLog.txt
+------------------ VER 1.1.0 - Released: 01-07-2014 ---------------
+Added Support to WP 3.8
+
+Updated:
+ChangeLog.txt
+cache
+style.css
+core/assets/css/metaboxes.css
+core/assets/css/panel.css
+core/yit/CPT_Unlimited.php
+core/yit/Services.php
+core/yit/Testimonial.php
+
+------------------ VER 1.0.1 ---------------
+Fixed: Various Bug
+
+Updated:
+ChangeLog.txt
+languages/default.po
+languages/yit.pot
+core/functions-core.php
+theme/tr.php
+
+------------------ VER 1.0.0 ---------------
+Initial Release
+
